@@ -31,6 +31,7 @@
 
 * Kaggle: https://www.kaggle.com/nourhannadelmohamed
 * GitHub: https://github.com/norhanadelmohamed4-max
+* Email: nourhanadelmohamed4@gmail.com
 ---
 
 ⭐ I'm always learning and improving my skills in AI & Data Science!
